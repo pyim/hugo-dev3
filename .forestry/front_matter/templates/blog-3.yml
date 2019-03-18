@@ -1,7 +1,6 @@
 ---
-label: blog 2
+label: blog 3
 hide_body: false
-display_field: displayInList
 fields:
 - name: title
   label: Title
@@ -43,5 +42,3 @@ fields:
   type: boolean
   hidden: false
   default: ''
-pages:
-- content/post/city-hunter.md
