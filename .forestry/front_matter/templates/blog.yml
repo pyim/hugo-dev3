@@ -43,5 +43,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/saint-seiya.md
 - content/post/goldorak.md
 - content/post/city-hunter.md
