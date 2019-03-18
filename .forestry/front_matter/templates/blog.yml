@@ -43,4 +43,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/goldorak.md
 - content/post/city-hunter.md
