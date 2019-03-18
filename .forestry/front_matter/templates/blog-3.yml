@@ -42,3 +42,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- content/post/goldorak.md
