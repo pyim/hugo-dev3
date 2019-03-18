@@ -43,4 +43,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/candy.md
 - content/post/goldorak.md
