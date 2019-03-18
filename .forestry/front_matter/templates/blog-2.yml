@@ -1,7 +1,6 @@
 ---
-label: blog
+label: blog 2
 hide_body: false
-display_field: title
 fields:
 - name: title
   label: Title
@@ -43,5 +42,3 @@ fields:
   type: boolean
   hidden: false
   default: ''
-pages:
-- content/post/saint-seiya.md
